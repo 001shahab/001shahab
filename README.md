@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on A2A and MCP AI Agents, LLM-based smart document management solutions, DL based facial expression analysis, Responsible AI, and MLLM based context analysis.<br>👯 I’m looking to collaborate on Agentic solution, LLM/SLM based retrieval solutions, computer vision, and human behaviour analysis.<br>💬 Ask me about Machine Learning, Deep Learning, Generative AI, Image Processing, eXplainable and Responsible AI, and Affective Computing  <br>⚡ Fun fact I create lots of tools, POCs, and MVPs in days for fun.
+🔭 I’m currently working on A2A and MCP AI Agents, LLM-based smart document management solutions, DL-based facial expression analysis, Responsible AI, and MLLM-based context analysis. I possess extensive technical expertise in computer vision, human-robot interaction, applied NLP, 3D modeling, augmented and virtual reality, and notably, Python, Keras, and TensorFlow programming. My adeptness in utilizing OpenAI, Anthropic, Meta, and Google LLM APIs demonstrates my progressive mindset toward nascent AI technologies.
+
+👯 I’m looking to collaborate on Agentic solutions, LLM/SLM-based retrieval solutions, computer vision, and human behavior analysis. In 2013, I founded the Intelligent Computer Vision (iCV) research lab, establishing the preeminent center in the Baltic States dedicated to computer vision and applied machine learning. I also founded 3S Holding OÜ, an AI boutique company developing hundreds of Agentic AI, Generative AI, and NLP-based solutions for companies across various industries.
+
+🤝 By co-founding Estonia's first Responsible AI HRTech startup, iVCV, I have demonstrated my entrepreneurial spirit. My role as an early-stage angel investor signifies my dedication to fostering groundbreaking concepts in technology. I have led teams to success on numerous research and development projects for industry titans, including eCommerce, Retail, SecTech, and FinTech companies.
+
+📚 My scholarly impact is considerable, with over 300 publications, including conference papers, journal articles, books, and patents. I am a distinguished member of the academic community, having served as the Chair of the IEEE Estonian section's Joint Societies Chapter and as an IEEE Senior Member. I hold the position of associate editor at multiple esteemed journals and have served as the chief guest editor for special issues focused on human behavior analysis. My Google Scholar profile can be found [here](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en).
+
+🎓 I have guided ten doctoral and over thirty MSc students in academia, cultivating the next generation of scientists. I have presided over workshops at FG17, CVPR17, ICCV17, ECML19, FG20, and FG24, as well as conferences including ICOSST, ICGIP, and SIU. I have been honored with grants from esteemed organizations such as the Scientific and Technological Research Council of Turkey, the Estonian Research Council, and the European Union.
+
+💡 In essence, my professional trajectory showcases my preeminent status in computer vision, machine learning, AI, and data science. Mentoring up-and-coming talent, fostering innovation, and contributing to the progression of intelligent technology are central to my life’s work.
+
+💬 Ask me about Machine Learning, Deep Learning, Generative AI, Image Processing, eXplainable and Responsible AI, and Affective Computing.
+
+⚡ Fun fact: I create lots of tools, POCs, and MVPs in days for fun!
 
 
 ## 🌐 Socials:
