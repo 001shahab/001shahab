@@ -1,65 +1,98 @@
-# 🌟 AI Visionary & Innovator
+# Prof. Shahab Anbarjafari
 
-🔥 **Pushing AI Boundaries**
-- Leading groundbreaking projects:
-  - A2A & MCP AI Agents
-  - LLM-driven smart document systems
-  - Deep learning facial expression analysis
-  - Responsible AI & MLLM context analysis
-- Master of cutting-edge tech:
-  - Computer vision, human-robot interaction, NLP
-  - 3D modeling, AR/VR
-  - Python, Keras, TensorFlow, OpenAI/Anthropic/Meta/Google LLM APIs
+**Founder of 3S Holding OÜ · IEEE Senior Member · 300+ publications · Tartu, Estonia**
 
-🚀 **Entrepreneurial Trailblazer**
-- Founded game-changing ventures:
-  - **2013: Intelligent Computer Vision (iCV) Lab** – Baltic States’ top hub for CV & ML
-  - **3S Holding OÜ** – AI boutique delivering 100s of Agentic AI, GenAI, Computer Vision, & NLP solutions for eCommerce, Retail, SecTech, & FinTech giants
-  - **iVCV** – Estonia’s 1st Responsible AI HRTech startup
-- Early-stage angel investor fueling revolutionary tech ideas
-- Delivered high-impact R&D for industry leaders, crafting scalable AI solutions
+I build agentic AI, computer vision and responsible-AI systems — and I publish the code that goes with the papers.
 
-📝 **Research Powerhouse**
-- 300+ publications shaping AI’s future:
-  - Conference papers, journal articles, books, patents
-  - [Google Scholar](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en)
-- IEEE Senior Member & former Chair of IEEE Estonia’s Joint Societies Chapter
-- Associate editor for top journals & guest editor for human behavior analysis issues
+[![Live demo](https://img.shields.io/badge/Try_freedom--LLM-000000?style=for-the-badge&logo=render&logoColor=white)](https://freedomllm.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarjafari) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIisMyLife) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shb@3sholding.com)
 
-🎓 **Global Mentor & Leader**
-- Mentored 10 PhD & 30+ MSc students, shaping AI’s next generation
-- Led workshops at FG17, CVPR17, ICCV17, ECML19, FG20, FG24
-- Organized conferences: ICOSST, ICGIP, SIU
-- Secured grants from:
-  - Scientific & Technological Research Council of Turkey
-  - Estonian Research Council
-  - European Union
-
-💡 **Hands-On Innovator**
-- Build tools, POCs, & MVPs in days, turning ideas into reality
-- Delivered 100s of bespoke AI solutions for global industries
-- Passionate about mentoring talent & driving intelligent tech forward
-
-💬 **Ask Me About**
-- ML, Deep Learning, GenAI, Image Processing
-- eXplainable AI, Responsible AI, Affective Computing
-
-⚡ **Fun Fact**
-- I create game-changing tools & MVPs in days—just for the thrill!
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/aiismylife) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shb@3sholding.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=001shahab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=001shahab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
- 
 ---
-[![](https://visitcount.itsvg.in/api?id=001shahab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Live now — freedom-LLM
+
+### **[→ freedomllm.onrender.com](https://freedomllm.onrender.com/)**
+
+A conversational assistant where deep reasoning is always on. It is not a setting, so there is no wrong way to use it.
+
+- **Ask, or attach.** `.pdf`, `.docx`, `.xlsx`, `.csv`, `.png`, `.jpg` — documents and spreadsheets become text the assistant can read and quote; images it can look at.
+- **Take the conversation with you.** Export to Markdown, a typeset PDF, or Word, with headings, tables and code preserved as real formatting rather than markup.
+- **Privacy by construction.** Conversations live in memory only. No database, nothing written to disk, and closing the tab ends the session.
+
+Built and shipped by me for 3S Holding OÜ. Free to try, no signup.
+
+---
+
+## 🔭 What I'm working on
+
+- **Agentic AI** — multi-agent systems, A2A and MCP, pre-execution consequence assessment
+- **Responsible AI** — trust and compliance layers, bias analysis and mitigation, eXplainable AI
+- **LLM engineering** — context engineering, LLM-as-a-judge evaluation, domain-specialised tiny language models
+- **Retrieval and graphs** — GraphRAG, graph-based document intelligence
+- **Computer vision** — facial expression analysis, gaze and pose tracking, Wi-Fi-based sensing
+
+## 🛠️ Building in public
+
+| Project | What it is |
+| --- | --- |
+| **[kuzuri](https://github.com/001shahab/kuzuri)** | Animated point-cloud patterns from parametric equations — 10,000 points, continuously morphing |
+| **[AgentForge](https://github.com/001shahab/AgentForge)** | A modular framework for LLM-driven autonomous agents. On PyPI as `agentforge-llm` |
+| **[GitHub Breakout](https://github.com/001shahab/GitHub-Breakout-Project)** | Your GitHub contribution graph, turned into a playable Breakout game |
+| **[aaron-llm](https://github.com/001shahab/aaron-llm)** | One auditable client for OpenAI, Anthropic, Google and Ollama, with a policy and an audit trail |
+| **[graph-tag](https://github.com/001shahab/graph-tag)** | Turns a corpus into an explorable 2D/3D graph — embed, cluster, then name the clusters with an LLM |
+| **[LLM-as-a-judge](https://github.com/001shahab/LLM-as-a-judge)** | An evaluator that authors its own golden dataset, then judges candidates against it transparently |
+| **[now-i-see-you](https://github.com/001shahab/now-i-see-you)** | See the room around you with nothing but your Wi-Fi |
+
+## 📄 Research that ships as code
+
+Every paper below has a repository you can actually run.
+
+| Paper | Code |
+| --- | --- |
+| Agentic Context Engineering — scalable context adaptation for LLMs | [Agentic_Context_Engineering](https://github.com/001shahab/Agentic_Context_Engineering) · [arXiv](https://arxiv.org/abs/2510.04618) |
+| Consequence-Aware Agentic AI — pre-execution outcome assessment for responsible LLM agents | [consequenceaware-agents](https://github.com/001shahab/consequenceaware-agents) · [paper](https://philpapers.org/archive/JAFCAA.pdf) |
+| HACL-TLM — hierarchical attention-compressed learning for ~30M-parameter language models | [HACL-TLM](https://github.com/001shahab/HACL-TLM) |
+| Landauer's limit and the energy cost of thought — thermodynamic bounds on learning | [bce-theory](https://github.com/001shahab/bce-theory) |
+
+## 🏛️ Ventures
+
+- **[3S Holding OÜ](https://3sholding.com)** — AI boutique delivering agentic AI, GenAI, computer vision and NLP for eCommerce, retail, SecTech and FinTech
+- **iCV Lab** (2013) — founded the Baltic states' leading computer vision and machine learning research hub
+- **iVCV** — Estonia's first responsible-AI HRTech startup
+- Early-stage angel investor
+
+## 🎓 Academia & community
+
+- 300+ conference papers, journal articles, books and patents — [Google Scholar](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en)
+- Supervised 10 PhD and 30+ MSc students
+- IEEE Senior Member; former Chair of IEEE Estonia's Joint Societies Chapter
+- Associate editor and guest editor for journals on human behaviour analysis
+- Workshops at FG17, CVPR17, ICCV17, ECML19, FG20, FG24; organised ICOSST, ICGIP, SIU
+- Grants from the Estonian Research Council, TÜBİTAK, and the European Union
+
+## 💬 Ask me about
+
+Machine learning · deep learning · GenAI and agents · image processing · eXplainable AI · responsible AI · affective computing
+
+---
+
+## 💻 Tech stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub stats
+
+![Contribution streak](https://streak-stats.demolab.com/?user=001shahab&theme=dark&hide_border=false)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=001shahab&theme=github_dark) ![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=001shahab&theme=github_dark)
+
+---
+
+⚡ **Fun fact:** I take an idea to a working tool or MVP in days — mostly for the thrill of it.
