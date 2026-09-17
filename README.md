@@ -55,7 +55,7 @@ Every paper below has a repository you can actually run.
 
 ## 🏛️ Ventures
 
-- **[3S Holding OÜ](https://3sholding.com)** — AI boutique delivering agentic AI, GenAI, computer vision and NLP for eCommerce, retail, SecTech and FinTech
+- **[3S Holding OÜ](https://3sholding.com)** — AI boutique delivering agentic AI, GenAI, computer vision and NLP for HealthTech, DefenseTech, eCommerce, HRTech, Retail, SecTech and FinTech
 - **iCV Lab** (2013) — founded the Baltic states' leading computer vision and machine learning research hub
 - **iVCV** — Estonia's first responsible-AI HRTech startup
 - Early-stage angel investor
