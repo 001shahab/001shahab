@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your time is limited, so don't waste it living someone else's life."*
+> *"Deciding what not to do is as important as deciding what to do."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
