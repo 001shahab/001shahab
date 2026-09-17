@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Deciding what not to do is as important as deciding what to do."*
+> *"Discipline is the bridge between goals and accomplishment."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
