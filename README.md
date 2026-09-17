@@ -95,4 +95,8 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 
 ---
 
-⚡ **Fun fact:** I take an idea to a working tool or MVP in days — mostly for the thrill of it.
+<!-- QUOTE:START -->
+> *"Your time is limited, so don't waste it living someone else's life."*
+>
+> — **Steve Jobs**
+<!-- QUOTE:END -->
