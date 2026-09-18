@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Motivation is what gets you started. Habit is what keeps you going."*
+> *"The few who do are the envy of the many who only watch."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
