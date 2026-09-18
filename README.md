@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
+> *"Motivation is what gets you started. Habit is what keeps you going."*
 >
-> — **Richard Feynman**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
