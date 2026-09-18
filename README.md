@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The few who do are the envy of the many who only watch."*
+> *"Success is doing ordinary things extraordinarily well."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
