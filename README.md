@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Deciding what not to do is as important as deciding what to do."*
+> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
