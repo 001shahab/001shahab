@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
