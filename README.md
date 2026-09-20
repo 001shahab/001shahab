@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> *"Design is not just what it looks like and feels like. Design is how it works."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
