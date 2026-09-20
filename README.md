@@ -56,14 +56,14 @@ Every paper below has a repository you can actually run.
 ## 🏛️ Ventures
 
 - **[3S Holding OÜ](https://3sholding.com)** — AI boutique delivering agentic AI, GenAI, computer vision and NLP for HealthTech, DefenseTech, eCommerce, HRTech, Retail, SecTech and FinTech
-- **iCV Lab** (2013) — founded the Baltic states' leading computer vision and machine learning research hub
+- **iCV Lab** — founded the Baltic states' leading computer vision and machine learning research hub
 - **iVCV** — Estonia's first responsible-AI HRTech startup
 - Early-stage angel investor
 
 ## 🎓 Academia & community
 
 - 300+ conference papers, journal articles, books and patents — [Google Scholar](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en)
-- Supervised 10 PhD and 30+ MSc students
+- Supervised 10+ PhD and 30+ MSc students
 - IEEE Senior Member; former Chair of IEEE Estonia's Joint Societies Chapter
 - Associate editor and guest editor for journals on human behaviour analysis
 - Workshops at FG17, CVPR17, ICCV17, ECML19, FG20, FG24; organised ICOSST, ICGIP, SIU
