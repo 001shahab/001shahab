@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Design is not just what it looks like and feels like. Design is how it works."*
+> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
