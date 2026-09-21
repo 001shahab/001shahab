@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
+> *"Learn to work harder on yourself than you do on your job."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
