@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
+> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
