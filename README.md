@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
+> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
