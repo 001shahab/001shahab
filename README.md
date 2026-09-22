@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"What gets measured gets managed."*
+> *"Great things in business are never done by one person. They're done by a team of people."*
 >
-> — **Peter Drucker**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
