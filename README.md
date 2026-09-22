@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Great things in business are never done by one person. They're done by a team of people."*
+> *"Motivation is what gets you started. Habit is what keeps you going."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
