@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Motivation is what gets you started. Habit is what keeps you going."*
+> *"Your life does not get better by chance, it gets better by change."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
