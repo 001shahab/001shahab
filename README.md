@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your life does not get better by chance, it gets better by change."*
+> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
