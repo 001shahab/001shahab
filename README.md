@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
+> *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
