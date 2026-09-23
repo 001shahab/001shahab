@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Don't wish it were easier, wish you were better."*
+> *"Success is nothing more than a few simple disciplines, practiced every day."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
