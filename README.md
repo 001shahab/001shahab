@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."*
+> *"Formal education will make you a living; self-education will make you a fortune."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
