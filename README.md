@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Success is nothing more than a few simple disciplines, practiced every day."*
+> *"Success is doing ordinary things extraordinarily well."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
