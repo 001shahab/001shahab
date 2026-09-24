@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
+> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
