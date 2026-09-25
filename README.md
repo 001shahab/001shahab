@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Focusing is about saying no."*
+> *"Nothing in life is to be feared, it is only to be understood."*
 >
-> — **Steve Jobs**
+> — **Marie Curie**
 <!-- QUOTE:END -->
