@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
+> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
