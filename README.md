@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
+> *"Going to bed at night saying we've done something wonderful — that's what matters to me."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
