@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Great things in business are never done by one person. They're done by a team of people."*
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
