@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your time is limited, so don't waste it living someone else's life."*
+> *"The best way to predict the future is to invent it."*
 >
-> — **Steve Jobs**
+> — **Alan Kay**
 <!-- QUOTE:END -->
