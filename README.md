@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The best way to predict the future is to invent it."*
+> *"Nothing in life is to be feared, it is only to be understood."*
 >
-> — **Alan Kay**
+> — **Marie Curie**
 <!-- QUOTE:END -->
