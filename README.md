@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
+> *"Deciding what not to do is as important as deciding what to do."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
