@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Nothing in life is to be feared, it is only to be understood."*
+> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
 >
-> — **Marie Curie**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
