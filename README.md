@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Formal education will make you a living; self-education will make you a fortune."*
+> *"I have not failed. I've just found 10,000 ways that won't work."*
 >
-> — **Jim Rohn**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
