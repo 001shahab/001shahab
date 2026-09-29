@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Going to bed at night saying we've done something wonderful — that's what matters to me."*
+> *"Deciding what not to do is as important as deciding what to do."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
