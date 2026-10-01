@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Innovation distinguishes between a leader and a follower."*
+> *"Great things in business are never done by one person. They're done by a team of people."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
