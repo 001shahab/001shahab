@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I have not failed. I've just found 10,000 ways that won't work."*
+> *"What gets measured gets managed."*
 >
-> — **Thomas Edison**
+> — **Peter Drucker**
 <!-- QUOTE:END -->
