@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."*
+> *"Going to bed at night saying we've done something wonderful — that's what matters to me."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
