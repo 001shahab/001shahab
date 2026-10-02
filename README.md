@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"What gets measured gets managed."*
+> *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."*
 >
-> — **Peter Drucker**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
