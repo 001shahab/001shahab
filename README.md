@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Focusing is about saying no."*
+> *"I have not failed. I've just found 10,000 ways that won't work."*
 >
-> — **Steve Jobs**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
