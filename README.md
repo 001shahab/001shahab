@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
+> *"Deciding what not to do is as important as deciding what to do."*
 >
-> — **Richard Feynman**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
