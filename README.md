@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Happiness is not something you postpone for the future; it is something you design for the present."*
+> *"Success is nothing more than a few simple disciplines, practiced every day."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
