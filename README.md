@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Nothing in life is to be feared, it is only to be understood."*
+> *"Formal education will make you a living; self-education will make you a fortune."*
 >
-> — **Marie Curie**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
