@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The few who do are the envy of the many who only watch."*
+> *"I have not failed. I've just found 10,000 ways that won't work."*
 >
-> — **Jim Rohn**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
