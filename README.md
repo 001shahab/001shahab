@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I have not failed. I've just found 10,000 ways that won't work."*
+> *"Learn to work harder on yourself than you do on your job."*
 >
-> — **Thomas Edison**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
