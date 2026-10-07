@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Focusing is about saying no."*
+> *"It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
