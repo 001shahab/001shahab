@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."*
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
