@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
+> *"Your life does not get better by chance, it gets better by change."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
