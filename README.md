@@ -4,13 +4,13 @@
 
 I build agentic AI, computer vision and responsible-AI systems — and I publish the code that goes with the papers.
 
-[![Live demo](https://img.shields.io/badge/Try_freedom--LLM-000000?style=for-the-badge&logo=render&logoColor=white)](https://freedomllm.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarjafari) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIisMyLife) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shb@3sholding.com)
+[![Live demo](https://img.shields.io/badge/Try_freedom--LLM-000000?style=for-the-badge&logo=render&logoColor=white)](https://freedomllm.3sholding.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarjafari) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIisMyLife) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shb@3sholding.com)
 
 ---
 
 ## 🚀 Live now — freedom-LLM
 
-### **[→ freedomllm.onrender.com](https://freedomllm.onrender.com/)**
+### **[→ freedomllm.3sholding.com](https://freedomllm.3sholding.com/)**
 
 A conversational assistant where deep reasoning is always on. It is not a setting, so there is no wrong way to use it.
 
