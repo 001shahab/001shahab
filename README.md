@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your life does not get better by chance, it gets better by change."*
+> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
 >
-> — **Jim Rohn**
+> — **Richard Feynman**
 <!-- QUOTE:END -->
