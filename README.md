@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Great things in business are never done by one person. They're done by a team of people."*
+> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
 >
-> — **Steve Jobs**
+> — **Richard Feynman**
 <!-- QUOTE:END -->
