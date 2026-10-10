@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
+> *"Happiness is not something you postpone for the future; it is something you design for the present."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
