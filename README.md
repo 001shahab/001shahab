@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Design is not just what it looks like and feels like. Design is how it works."*
+> *"Great things in business are never done by one person. They're done by a team of people."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
