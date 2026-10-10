@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Great things in business are never done by one person. They're done by a team of people."*
+> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
