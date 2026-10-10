@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
+> *"Design is not just what it looks like and feels like. Design is how it works."*
 >
-> — **Richard Feynman**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
