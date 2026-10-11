@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Innovation distinguishes between a leader and a follower."*
+> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
