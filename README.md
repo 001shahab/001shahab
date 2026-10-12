@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Stay hungry. Stay foolish."*
+> *"Success is doing ordinary things extraordinarily well."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
