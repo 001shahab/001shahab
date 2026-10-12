@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Success is doing ordinary things extraordinarily well."*
+> *"Nothing in life is to be feared, it is only to be understood."*
 >
-> — **Jim Rohn**
+> — **Marie Curie**
 <!-- QUOTE:END -->
