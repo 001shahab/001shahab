@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Nothing in life is to be feared, it is only to be understood."*
+> *"Deciding what not to do is as important as deciding what to do."*
 >
-> — **Marie Curie**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
