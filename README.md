@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> *"Your time is limited, so don't waste it living someone else's life."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
