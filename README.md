@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."*
+> *"Formal education will make you a living; self-education will make you a fortune."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
