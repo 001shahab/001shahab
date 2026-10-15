@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Innovation distinguishes between a leader and a follower."*
+> *"I want to put a ding in the universe."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
