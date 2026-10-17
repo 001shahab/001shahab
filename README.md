@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The best way to predict the future is to invent it."*
+> *"Your life does not get better by chance, it gets better by change."*
 >
-> — **Alan Kay**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
