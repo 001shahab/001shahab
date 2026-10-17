@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your life does not get better by chance, it gets better by change."*
+> *"Formal education will make you a living; self-education will make you a fortune."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
