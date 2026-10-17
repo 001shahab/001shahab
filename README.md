@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Stay hungry. Stay foolish."*
+> *"The best way to predict the future is to invent it."*
 >
-> — **Steve Jobs**
+> — **Alan Kay**
 <!-- QUOTE:END -->
