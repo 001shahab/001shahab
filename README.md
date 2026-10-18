@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Success is nothing more than a few simple disciplines, practiced every day."*
+> *"It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
