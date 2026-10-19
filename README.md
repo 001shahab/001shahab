@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Motivation is what gets you started. Habit is what keeps you going."*
+> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
