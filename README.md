@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"You are the average of the five people you spend the most time with."*
+> *"What gets measured gets managed."*
 >
-> — **Jim Rohn**
+> — **Peter Drucker**
 <!-- QUOTE:END -->
