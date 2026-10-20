@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"What gets measured gets managed."*
+> *"Deciding what not to do is as important as deciding what to do."*
 >
-> — **Peter Drucker**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
