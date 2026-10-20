@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
+> *"You are the average of the five people you spend the most time with."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
