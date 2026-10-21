@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."*
+> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
