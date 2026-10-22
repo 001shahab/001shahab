@@ -22,6 +22,43 @@ Built and shipped by me for 3S Holding OÜ. Free to try, no signup.
 
 ---
 
+## 🧰 Live products
+
+Everything 3S Holding has shipped is free, with no price tag and no fine print — the full catalogue lives at [3sholding.com/products](https://3sholding.com/products).
+
+**Built to be trusted**
+
+| Product | What it does |
+| --- | --- |
+| **[freedom-LLM](https://freedomllm.3sholding.com/)** | The conversation that leaves no trace. Bring any document, ask anything, and close the window to an empty room |
+| **[3S-AI](https://decision-layer.3sholding.com/)** | Know when to trust the code. Lives in VS Code and Cursor, and answers with its evidence, an honest confidence measure, and a tamper-evident audit trail |
+
+**For makers and teams**
+
+| Product | What it does |
+| --- | --- |
+| **[Codesmith](https://codesmith-3s.onrender.com)** | Your personal software craftsman. Describe the tool, site or app you want and watch it take shape — in the browser, or installed on macOS, Windows or Linux |
+| **[magicHR](https://magichr.3sholding.com/login)** | A talent operating system: know who you have, hire who you need fairly, pay exactly right, stay audit-ready |
+
+**Your morning edge**
+
+| Product | What it does |
+| --- | --- |
+| **[AI Pulse](https://ai-today.3sholding.com/login)** | Reads the AI world every three hours across 36 sources and explains what matters for business. No source, no story |
+
+**Everyday helpers**
+
+| Product | What it does |
+| --- | --- |
+| **[SmartPodcast](https://smartpodcast.onrender.com)** | Turns a report, an article or your own notes into a lively conversation between voices you cast yourself |
+| **[Compass](https://compass-3s.onrender.com)** | Describe what your AI does in plain words and get the rules that apply, what they mean, and a 30/60/90-day plan |
+| **[MentorSteve](https://3s-steve.3sholding.com/)** | What would Steve do? Direct, uncompromising counsel on your product, pitch and priorities |
+| **[iPrompt](https://myprompt.onrender.com/)** | Takes a rough idea and polishes it into a prompt that earns a better answer |
+| **[Quick Email Reply](https://quick-email-reply-gen.onrender.com)** | Show it the email, say what you mean in your own words, and get a polished reply ready to send |
+| **[Humanizer](https://3s-humanization.3sholding.com/)** | AI-drafted text that reads like you wrote it, with your layout, fonts and sizes untouched |
+
+---
+
 ## 🔭 What I'm working on
 
 - **Agentic AI** — multi-agent systems, A2A and MCP, pre-execution consequence assessment
