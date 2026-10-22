@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Nothing in life is to be feared, it is only to be understood."*
+> *"Time is more valuable than money. You can get more money, but you cannot get more time."*
 >
-> — **Marie Curie**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
