@@ -96,7 +96,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Don't wish it were easier, wish you were better."*
+> *"Your life does not get better by chance, it gets better by change."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
