@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."*
+> *"I want to put a ding in the universe."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
