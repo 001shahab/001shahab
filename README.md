@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I want to put a ding in the universe."*
+> *"Focusing is about saying no."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
