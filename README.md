@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
+> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
