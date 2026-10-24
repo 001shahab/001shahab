@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
+> *"Focusing is about saying no."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
