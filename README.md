@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Happiness is not something you postpone for the future; it is something you design for the present."*
+> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
