@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Focusing is about saying no."*
+> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
