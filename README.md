@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Nothing in life is to be feared, it is only to be understood."*
+> *"Your time is limited, so don't waste it living someone else's life."*
 >
-> — **Marie Curie**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
