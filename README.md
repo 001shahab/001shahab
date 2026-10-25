@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Discipline is the bridge between goals and accomplishment."*
+> *"Nothing in life is to be feared, it is only to be understood."*
 >
-> — **Jim Rohn**
+> — **Marie Curie**
 <!-- QUOTE:END -->
