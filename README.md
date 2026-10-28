@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Time is more valuable than money. You can get more money, but you cannot get more time."*
+> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
