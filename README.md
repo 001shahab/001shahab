@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Design is not just what it looks like and feels like. Design is how it works."*
+> *"What gets measured gets managed."*
 >
-> — **Steve Jobs**
+> — **Peter Drucker**
 <!-- QUOTE:END -->
