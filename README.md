@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"What gets measured gets managed."*
+> *"Your time is limited, so don't waste it living someone else's life."*
 >
-> — **Peter Drucker**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
