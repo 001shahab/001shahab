@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
+> *"Formal education will make you a living; self-education will make you a fortune."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
