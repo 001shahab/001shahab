@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Motivation is what gets you started. Habit is what keeps you going."*
+> *"Don't wish it were easier, wish you were better."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
