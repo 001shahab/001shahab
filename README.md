@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Success is nothing more than a few simple disciplines, practiced every day."*
+> *"Motivation is what gets you started. Habit is what keeps you going."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
