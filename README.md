@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Don't wish it were easier, wish you were better."*
+> *"I have not failed. I've just found 10,000 ways that won't work."*
 >
-> — **Jim Rohn**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
