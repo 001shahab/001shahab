@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
+> *"Your life does not get better by chance, it gets better by change."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
