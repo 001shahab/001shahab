@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"You are the average of the five people you spend the most time with."*
+> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
