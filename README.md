@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Going to bed at night saying we've done something wonderful — that's what matters to me."*
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
