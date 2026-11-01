@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> *"Days are expensive. When you spend a day, you have one less day to spend. So make sure you spend each one wisely."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
