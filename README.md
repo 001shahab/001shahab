@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
+> *"Happiness is not something you postpone for the future; it is something you design for the present."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
