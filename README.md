@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Happiness is not something you postpone for the future; it is something you design for the present."*
+> *"I have not failed. I've just found 10,000 ways that won't work."*
 >
-> — **Jim Rohn**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
