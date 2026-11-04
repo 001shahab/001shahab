@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Don't wish it were easier, wish you were better."*
+> *"Design is not just what it looks like and feels like. Design is how it works."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
