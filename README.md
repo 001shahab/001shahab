@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Design is not just what it looks like and feels like. Design is how it works."*
+> *"I have not failed. I've just found 10,000 ways that won't work."*
 >
-> — **Steve Jobs**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
