@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I have not failed. I've just found 10,000 ways that won't work."*
+> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
 >
-> — **Thomas Edison**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
