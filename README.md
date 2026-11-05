@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
+> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
 >
-> — **Jim Rohn**
+> — **Richard Feynman**
 <!-- QUOTE:END -->
