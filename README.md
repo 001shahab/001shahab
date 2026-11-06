@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Your life does not get better by chance, it gets better by change."*
+> *"It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
