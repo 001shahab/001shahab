@@ -133,7 +133,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"You are the average of the five people you spend the most time with."*
+> *"Your life does not get better by chance, it gets better by change."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
