@@ -134,7 +134,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."*
+> *"I have not failed. I've just found 10,000 ways that won't work."*
 >
-> — **Jim Rohn**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
