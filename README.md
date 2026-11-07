@@ -4,27 +4,28 @@
 
 I build agentic AI, computer vision and responsible-AI systems — and I publish the code that goes with the papers.
 
-[![Live demo](https://img.shields.io/badge/Try_freedom--LLM-000000?style=for-the-badge&logo=render&logoColor=white)](https://freedomllm.3sholding.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarjafari) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIisMyLife) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shb@3sholding.com)
+[![Try Humanizer](https://img.shields.io/badge/Try_Humanizer-7C3AED?style=for-the-badge&logoColor=white)](https://3s-humanization.3sholding.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarjafari) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6gN67JAAAAAJ&hl=en) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIisMyLife) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shb@3sholding.com)
 
 ---
 
-## 🚀 Live now — freedom-LLM
+## 🚀 Live now — Humanizer
 
-### **[→ freedomllm.3sholding.com](https://freedomllm.3sholding.com/)**
+### **[→ 3s-humanization.3sholding.com](https://3s-humanization.3sholding.com/)**
 
-A conversational assistant where deep reasoning is always on. It is not a setting, so there is no wrong way to use it.
+Turns AI-drafted text into writing that reads like a person sat down and wrote it.
 
-- **Ask, or attach.** `.pdf`, `.docx`, `.xlsx`, `.csv`, `.png`, `.jpg` — documents and spreadsheets become text the assistant can read and quote; images it can look at.
-- **Take the conversation with you.** Export to Markdown, a typeset PDF, or Word, with headings, tables and code preserved as real formatting rather than markup.
-- **Privacy by construction.** Conversations live in memory only. No database, nothing written to disk, and closing the tab ends the session.
+- **Paste text, or drop a document.** Word (`.docx`) or PDF in, the same document back out — layout, fonts and sizes preserved.
+- **Fast or Deep Thinking.** A quick pass for short pieces, or a deeper rewrite when it matters.
+- **See what changed.** A before-and-after view shows how the words, the rhythm of sentence lengths and the paragraphs moved.
+- **Your call on the details.** Optional natural typos (off by default), plus author name, editing time and edit count for the finished file.
 
-Built and shipped by me for 3S Holding OÜ. Free to try, no signup.
+Built and shipped by me for 3S Holding OÜ. Start with a free account; longer Deep Thinking runs are a one-time $1.99, or $9.99 for an unlimited week — no subscription.
 
 ---
 
 ## 🧰 Live products
 
-Everything 3S Holding has shipped is free, with no price tag and no fine print — the full catalogue lives at [3sholding.com/products](https://3sholding.com/products).
+Everything 3S Holding has shipped is free to use — the full catalogue lives at [3sholding.com/products](https://3sholding.com/products).
 
 **Built to be trusted**
 
