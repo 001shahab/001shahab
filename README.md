@@ -8,9 +8,24 @@ I build agentic AI, computer vision and responsible-AI systems — and I publish
 
 ---
 
-## 🚀 Live now — Humanizer
+## 🚀 Live now
 
-### **[→ 3s-humanization.3sholding.com](https://3s-humanization.3sholding.com/)**
+### Anahita — survey papers, thoughtfully composed
+
+**[→ survey.3sholding.com](https://survey.3sholding.com/)**
+
+Give it a topic, a description of what the survey should cover, the authors and their affiliations, and optionally a time period. Anahita returns a complete, fully referenced academic survey paper, typeset as PDF, Word and LaTeX.
+
+- **It reads the literature.** It searches OpenAlex (journals, conferences and preprints, with arXiv as a fallback), scores every candidate for relevance, and extracts an evidence card for each one: problem, approach, findings and limitations.
+- **It organises the field.** It derives a taxonomy of four to six sections from the evidence, then plans every section down to paragraphs and claims.
+- **It reviews its own work.** An independent reviewer critiques each drafted section and the drafter revises it, before a final author pass writes the abstract, introduction, future directions and conclusion.
+- **It cannot invent a reference.** Citations can only point to real records retrieved in the search, and code checks every one, so nothing in the reference list is made up.
+
+A survey takes up to 45 minutes, and you can close the page while it works. One payment of $12.99 per survey through Stripe; if a run fails, the payment carries over as a credit.
+
+### Humanizer — AI text that reads like you wrote it
+
+**[→ 3s-humanization.3sholding.com](https://3s-humanization.3sholding.com/)**
 
 Turns AI-drafted text into writing that reads like a person sat down and wrote it.
 
@@ -25,7 +40,13 @@ Built and shipped by me for 3S Holding OÜ. Start with a free account; longer De
 
 ## 🧰 Live products
 
-Everything 3S Holding has shipped is free to use — the full catalogue lives at [3sholding.com/products](https://3sholding.com/products).
+Most of what 3S Holding has shipped is free to use; Anahita and Humanizer's longer runs are paid. The full catalogue lives at [3sholding.com/products](https://3sholding.com/products).
+
+**For researchers**
+
+| Product | What it does |
+| --- | --- |
+| **[Anahita](https://survey.3sholding.com/)** | Composes a complete, fully referenced survey paper from a topic, typeset as PDF, Word and LaTeX, with every citation traced to a real record |
 
 **Built to be trusted**
 
