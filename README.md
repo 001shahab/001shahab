@@ -134,7 +134,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I have not failed. I've just found 10,000 ways that won't work."*
+> *"Nothing in life is to be feared, it is only to be understood."*
 >
-> — **Thomas Edison**
+> — **Marie Curie**
 <!-- QUOTE:END -->
