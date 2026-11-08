@@ -134,7 +134,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Nothing in life is to be feared, it is only to be understood."*
+> *"Learn to work harder on yourself than you do on your job."*
 >
-> — **Marie Curie**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
