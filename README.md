@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."*
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
