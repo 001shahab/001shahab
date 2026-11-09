@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Design is not just what it looks like and feels like. Design is how it works."*
+> *"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
