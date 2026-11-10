@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The best way to predict the future is to invent it."*
+> *"Learn to work harder on yourself than you do on your job."*
 >
-> — **Alan Kay**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
