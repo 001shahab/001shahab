@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> *"The best way to predict the future is to invent it."*
 >
-> — **Steve Jobs**
+> — **Alan Kay**
 <!-- QUOTE:END -->
