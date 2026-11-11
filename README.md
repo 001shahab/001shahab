@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Success is nothing more than a few simple disciplines, practiced every day."*
+> *"The best way to predict the future is to invent it."*
 >
-> — **Jim Rohn**
+> — **Alan Kay**
 <!-- QUOTE:END -->
