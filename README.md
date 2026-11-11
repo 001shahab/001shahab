@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The best way to predict the future is to invent it."*
+> *"Discipline is the bridge between goals and accomplishment."*
 >
-> — **Alan Kay**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
