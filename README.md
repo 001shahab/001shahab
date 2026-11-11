@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Discipline is the bridge between goals and accomplishment."*
+> *"Going to bed at night saying we've done something wonderful — that's what matters to me."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
