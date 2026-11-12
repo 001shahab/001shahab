@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Going to bed at night saying we've done something wonderful — that's what matters to me."*
+> *"Happiness is not something you postpone for the future; it is something you design for the present."*
 >
-> — **Steve Jobs**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
