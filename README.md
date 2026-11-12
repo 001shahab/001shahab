@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
+> *"Great things in business are never done by one person. They're done by a team of people."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
