@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Formal education will make you a living; self-education will make you a fortune."*
+> *"Learn to work harder on yourself than you do on your job."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
