@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The few who do are the envy of the many who only watch."*
+> *"Formal education will make you a living; self-education will make you a fortune."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
