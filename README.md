@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"You are the average of the five people you spend the most time with."*
+> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
