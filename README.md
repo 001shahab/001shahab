@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
+> *"Nothing in life is to be feared, it is only to be understood."*
 >
-> — **Jim Rohn**
+> — **Marie Curie**
 <!-- QUOTE:END -->
