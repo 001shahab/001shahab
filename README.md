@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Stay hungry. Stay foolish."*
+> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
