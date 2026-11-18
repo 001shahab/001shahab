@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The best way to predict the future is to invent it."*
+> *"It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do."*
 >
-> — **Alan Kay**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
