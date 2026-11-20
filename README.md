@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"The best way to predict the future is to invent it."*
+> *"Time is more valuable than money. You can get more money, but you cannot get more time."*
 >
-> — **Alan Kay**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
