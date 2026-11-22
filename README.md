@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Discipline is the bridge between goals and accomplishment."*
+> *"Motivation is what gets you started. Habit is what keeps you going."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
