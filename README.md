@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Motivation is what gets you started. Habit is what keeps you going."*
+> *"I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."*
 >
-> — **Jim Rohn**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
