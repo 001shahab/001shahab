@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"We must all suffer one of two things: the pain of discipline or the pain of regret."*
+> *"Success is nothing more than a few simple disciplines, practiced every day."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
