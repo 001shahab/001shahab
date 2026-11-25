@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Success is nothing more than a few simple disciplines, practiced every day."*
+> *"Your life does not get better by chance, it gets better by change."*
 >
 > — **Jim Rohn**
 <!-- QUOTE:END -->
