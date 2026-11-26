@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Stay hungry. Stay foolish."*
+> *"Your time is limited, so don't waste it living someone else's life."*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
