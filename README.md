@@ -155,7 +155,7 @@ Machine learning · deep learning · GenAI and agents · image processing · eXp
 ---
 
 <!-- QUOTE:START -->
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> *"What gets measured gets managed."*
 >
-> — **Steve Jobs**
+> — **Peter Drucker**
 <!-- QUOTE:END -->
